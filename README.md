@@ -1,4 +1,8 @@
-
+Name : QUZZAL LIAQAT 
+Roll No: 15
+department: cs
+sem : 6th
+eMail: quzzalkhanam786@gmail.com
 
 ### **Handwritten Digit Recognition**
 
