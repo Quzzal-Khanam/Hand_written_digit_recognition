@@ -1,6 +1,4 @@
-Here's a simple **README** text based on what you've requested:
 
----
 
 ### **Handwritten Digit Recognition**
 
